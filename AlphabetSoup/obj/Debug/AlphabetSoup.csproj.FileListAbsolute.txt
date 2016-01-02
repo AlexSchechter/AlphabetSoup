@@ -1,0 +1,9 @@
+C:\Coding\SimpleAdd\AlphabetSoup\AlphabetSoup\bin\Debug\AlphabetSoup.exe.config
+C:\Coding\SimpleAdd\AlphabetSoup\AlphabetSoup\bin\Debug\AlphabetSoup.exe
+C:\Coding\SimpleAdd\AlphabetSoup\AlphabetSoup\bin\Debug\AlphabetSoup.pdb
+C:\Coding\SimpleAdd\AlphabetSoup\AlphabetSoup\obj\Debug\AlphabetSoup.exe
+C:\Coding\SimpleAdd\AlphabetSoup\AlphabetSoup\obj\Debug\AlphabetSoup.pdb
+C:\Coding\SimpleAdd\AlphabetSoup\AlphabetSoup\obj\Debug\AlphabetSoup.csprojResolveAssemblyReference.cache
+C:\Coding\AlphabetSoup\AlphabetSoup\bin\Debug\AlphabetSoup.exe.config
+C:\Coding\AlphabetSoup\AlphabetSoup\obj\Debug\AlphabetSoup.exe
+C:\Coding\AlphabetSoup\AlphabetSoup\obj\Debug\AlphabetSoup.pdb
